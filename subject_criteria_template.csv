@@ -1,0 +1,2 @@
+subject,code,semester,branch,lectures,studios,credits,internal_pass,external_pass,internal_weight,external_weight,direct_weight,indirect_weight,internal_max,exam_max,jury_max,external_total,objective,syllabus,styles
+Basic Design,BD101,1,Design,2,4,6,50,40,60,40,80,20,60,40,0,40,Introduce basics,"List points...","Lecture, Studio"
